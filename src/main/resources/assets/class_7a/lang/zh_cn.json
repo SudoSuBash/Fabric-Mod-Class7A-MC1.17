@@ -1,0 +1,26 @@
+{
+  "item.class_7a.blackpeople_meat": "黑人的肉",
+  "block.class_7a.blackpeople_head": "黑人的头",
+
+  "itemGroup.class_7a.africaqueen_blackpeople_group": "黑洲\"废\"人的物品栏",
+  "block.class_7a.africaqueen_head": "非洲女王的头",
+  "item.class_7a.africaqueen_bone": "非洲女王的骨头",
+
+  "item.class_7a.africaqueen_axe": "非洲女王的秃(斧)头",
+  "item.class_7a.africaqueen_hoe": "非洲女王的锄头",
+  "item.class_7a.africaqueen_pickaxe": "非洲女王的镐",
+  "item.class_7a.africaqueen_shovel": "非洲女王的铲",
+  "item.class_7a.africaqueen_sword": "非洲女王的贱(剑)",
+
+  "item.class_7a.blackpeople_armor_head": "黑人的三色头盔",
+  "item.class_7a.blackpeople_armor_chest": "黑人的双色胸甲",
+  "item.class_7a.blackpeople_armor_leg": "黑人的护腿",
+  "item.class_7a.blackpeople_armor_foot": "黑人的靴子",
+
+  "advancements.black_africa.root.title": "黑派来也",
+  "advancements.black_africa.root.description": "黑派专有进度",
+  "advancements.black_africa.black_africa_people.title": "'黑'洲'非'人",
+  "advancements.black_africa.black_africa_people.description": "本班的黑人来了,敬请欢迎!",
+  "advancements.black_africa.queen_africa_queen.title": "'女王'之王",
+  "advancements.black_africa.queen_africa_queen.description": "注意:这个成就并没有开发完成....."
+}

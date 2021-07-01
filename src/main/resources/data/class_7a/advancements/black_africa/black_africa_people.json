@@ -1,0 +1,33 @@
+{
+  "parent": "class_7a:black_africa/root",
+  "display": {
+    "icon": {
+      "item": "class_7a:blackpeople_head"
+    },
+    "title": {
+      "translate": "advancements.black_africa.black_africa_people.title"
+    },
+    "description": {
+      "translate": "advancements.black_africa.black_africa_people.description"
+    }
+  },
+  "criteria": {
+    "black_africa_people": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "class_7a:blackpeople_head"
+            ]
+          }
+        ]
+        }
+      }
+    },
+  "requirements": [
+    [
+      "black_africa_people"
+    ]
+  ]
+}

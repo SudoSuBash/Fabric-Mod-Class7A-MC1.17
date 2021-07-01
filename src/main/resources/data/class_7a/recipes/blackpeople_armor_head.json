@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"ABA",
+  	"ACA",
+  	"   "
+  ],
+  "key": {
+    "A": {
+      "item": "class_7a:blackpeople_head"
+    },
+    "B": {
+      "item": "class_7a:africaqueen_head"
+    },
+    "C": { 
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "item": "class_7a:blackpeople_armor_head",
+    "count": 1
+  }
+}

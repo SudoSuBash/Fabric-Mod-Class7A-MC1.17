@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures":
+  {
+    "layer0":"class_7a:item/blackpeople/blackpeople_leg"
+  }
+}

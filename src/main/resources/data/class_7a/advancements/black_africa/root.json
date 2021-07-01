@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "class_7a:africaqueen_bone"
+    },
+    "title": {
+      "translate": "advancements.black_africa.root.title"
+    },
+    "description": {
+      "translate": "advancements.black_africa.root.description"
+    },
+    "background": "class_7a:textures/background/advancement/blackafrica.png"
+  },
+  "criteria": {
+    "black_robe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items":[
+              "class_7a:africaqueen_head"
+            ]
+          }
+        ]
+        }
+      }
+    },
+  "requirements": [
+    [
+      "black_robe"
+    ]
+  ]
+}

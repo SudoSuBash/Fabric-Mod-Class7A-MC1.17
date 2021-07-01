@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "class_7a:block/blackpeople_head/blackpeople_head_all",
+    "south":"class_7a:block/blackpeople_head/blackpeople_head_south",
+    "west": "class_7a:block/blackpeople_head/blackpeople_head_west",
+    "east": "class_7a:block/blackpeople_head/blackpeople_head_east"
+  }
+}

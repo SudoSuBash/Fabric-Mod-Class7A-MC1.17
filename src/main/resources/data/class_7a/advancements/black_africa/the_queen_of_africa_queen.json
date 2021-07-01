@@ -1,0 +1,27 @@
+{
+  "parent": "class_7a:black_africa/root",
+  "display": {
+    "icon": {
+      "item": "class_7a:africaqueen_head"
+    },
+    "title": {
+      "translate": "advancements.black_africa.queen_africa_queen.title"
+    },
+    "description": {
+      "translate": "advancements.black_africa.queen_africa_queen.description"
+    }
+  },
+  "criteria": {
+    "queen_of_africa_queen": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+
+        }
+      }
+    },
+  "requirements": [
+    [
+      "queen_of_africa_queen"
+    ]
+  ]
+}

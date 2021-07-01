@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "class_7a",
+  "version": "DEMO_2",
+
+  "name": "Class 7A",
+  "description": "Hi,Welcome to Class 807-A(In 2021 Year Spring)!You can enjoy the fun of play,and you can enjoy the style of my class(such as BlackPeople and AfricaQueen),and then.....you can go hunting!there are many things for you to play!\n\n嘿,欢迎来到807-A(2021 年春)班!\n在这儿,你可以近亲",
+  "authors": [
+    "Snow-Wolf"
+  ],
+
+  "license": "CC0-1.0",
+  "icon": "assets/class_7a/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.snowwolf.class_7a.Register.BlockRegister",
+      "net.snowwolf.class_7a.Register.ItemRegister"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
