@@ -2,7 +2,7 @@ package net.snowwolf.class_7a.Register;
 
 import net.minecraft.entity.EquipmentSlot;
 import net.minecraft.recipe.Ingredient;
-import net.snowwolf.class_7a.Armor. BlackpeopleArmor;
+import net.snowwolf.class_7a.Armor.BlackpeopleArmor;
 import net.snowwolf.class_7a.BlockList;
 import net.snowwolf.class_7a.FoodList;
 import net.snowwolf.class_7a.ItemGroupList;
